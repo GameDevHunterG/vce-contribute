@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Hunter Gomulkiewicz](https://github.com/GameDevHunterG) - student, future video game developer, gamer, enjoyer of pizza, Dr. Pepper, and Fruit Punch Rockstar Energy Drinks
